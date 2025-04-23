@@ -4,6 +4,6 @@ This repository contains the **definitive guide** for developers who want to **m
 
 ## Documentation
 
-- English documentation (coming soon)
+- [LangChain 🇺🇸](./docs/langchain_en/README.md) - Comprehensive documentation about the LangChain framework for LLM-based application development
 - [LangChain 🇧🇷](./docs/langchain/README.md) - Documentação abrangente sobre o framework LangChain para desenvolvimento de aplicações baseadas em LLMs
 - Spanish documentation (coming soon)
