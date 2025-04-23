@@ -1,7 +1,9 @@
 # Personal
 
-Este repositório contém documentações e notas pessoais sobre tecnologias e frameworks.
+This repository contains personal documentation and notes about technologies and frameworks.
 
-## Documentações
+## Documentation
 
-- [LangChain](./docs/langchain/README.md) - Documentação abrangente sobre o framework LangChain para desenvolvimento de aplicações baseadas em LLMs
+- English documentation (coming soon)
+- [LangChain 🇧🇷](./docs/langchain/README.md) - Comprehensive documentation about the LangChain framework for LLM-based application development
+- Spanish documentation (coming soon)
